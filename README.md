@@ -1,0 +1,1 @@
+Stochastic Calculus is a subject which requires a lot of heavy mathematical machinery to draw any significant results or intuition. Non-Standard analysis, or the introduction of infinitesimal numbers as objects we can work with, gives an easier lens into some concepts in Stochastic Calculus, and plays well with the common method of approaching solving SDEs, Discretization.
